@@ -208,6 +208,13 @@ O pacote `performance` existe para demonstrar, na prática, o impacto da pagina�
    Tempo com paginação = ... ms
    ```
 
+   ## 🌐 Demo online
+
+A API está no ar: **https://deploy-controle-despesas-api.onrender.com**
+
+Para cadastrar despesas, use um cliente de API como Postman, Insomnia ou Hoppscotch. Consultas `GET` também funcionam direto no navegador, por exemplo: `/gestao/usuario@email.com`.
+
+
 ## 👨‍💻 Autor
 
 Desenvolvido por **Juan Jorge** — [@Juan-J0rge](https://github.com/Juan-J0rge)
